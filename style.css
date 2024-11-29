@@ -78,11 +78,20 @@
 
 .coupon {
   display: flex;
-  width: 100%;
   flex-direction: column;
   align-items: flex-start;
+  margin-top: 12px;
 }
 
+p.shippingforu {
+  margin-top: -19px;
+  color: #3D3D3D;
+  font-family: Lato;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
 p.customername {
   color: #000;
   font-family: Lato;
@@ -456,9 +465,25 @@ input[type="int"] {
   text-decoration: solid;
 }
 
-.featuring {
+/* .featuring {
   margin-top: 24px;
   margin-bottom: 24px;
+} */
+
+
+.row.cartitemsection {
+  align-items: center;
+  justify-content: center;
+  width: 106%;
+  margin-left: -24px;
+}
+button#dropdownMenuButton {
+  font-size: 12px;
+  color: #3D3D3D;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
 }
 
 .material p {
