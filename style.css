@@ -83,6 +83,15 @@
   margin-top: 12px;
 }
 
+.d-flex.justify-content-center.indicator-container {
+  margin-bottom: 72px;
+  margin-top: 32px;
+}
+.row .togglemenu {
+  margin-top: 56px;
+  margin-bottom: 32px;
+  margin-left: -4px;
+}
 
 
 .w-10 {
