@@ -83,6 +83,36 @@
   margin-top: 12px;
 }
 
+
+
+.w-10 {
+  width: 10px;
+}
+.h-10 {
+  height: 10px;
+}
+
+.bg-black {
+  background: #000;
+}
+.center-step-text {
+  display: flex;
+  justify-content: center;
+  margin-left: -90%;
+  margin-top: 8px;
+  color: #000;
+  font-family: Lato;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 166.667% */
+  text-transform: uppercase;
+}
+
+.indicator-container {
+  margin-top: 40px;
+  margin-bottom: 32px;
+}
 p.shippingforu {
   margin-top: -19px;
   color: #3D3D3D;
@@ -465,10 +495,6 @@ input[type="int"] {
   text-decoration: solid;
 }
 
-/* .featuring {
-  margin-top: 24px;
-  margin-bottom: 24px;
-} */
 
 
 .row.cartitemsection {
