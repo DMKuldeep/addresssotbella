@@ -58,6 +58,7 @@
   line-height: 64px;
   /* 100% */
   align-items: center;
+  margin-left: 16px;
 }
 
 .content .list-inline-item:not(:last-child) {
