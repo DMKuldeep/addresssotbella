@@ -84,13 +84,10 @@
   margin-top: 12px;
 }
 
-.d-flex.justify-content-center.indicator-container {
-  margin-bottom: 72px;
-  margin-top: 32px;
-}
+
 .row .togglemenu {
-  margin-top: 56px;
-  margin-bottom: 32px;
+  margin-top: 30px;
+  margin-bottom: 28px;
   margin-left: -4px;
 }
 
@@ -854,15 +851,19 @@ p.discount {
   font-weight: 300;
   line-height: 20px;
   /* 166.667% */
-  margin-top: 56px;
-  margin-bottom: 75px;
+  margin-top: 40px;
+  margin-bottom: 56px;
   float: left;
   margin-left: -30px;
 }
 
 .row .togglemenu {
-  margin-top: 56px;
-  margin-bottom: 32px;
+  margin-top: 28px;
+  margin-bottom: 25px;
+}
+.d-flex.justify-content-center.indicator-container {
+  margin-bottom: 63px;
+  margin-top: 16px;
 }
 
 .profile {
